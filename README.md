@@ -193,14 +193,6 @@ p.note { display: none; }
 <h2><span class="yellow">ホテルの敷地内にはお花達が咲いています</span></h2>
 <a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00043.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00043.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00044.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00044.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00045.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00045.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00047.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00047.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00048.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00048.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00049.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00049.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00050.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00050.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00051.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00051.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00052.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00052.jpeg" alt="サンプル画像" class="responsive-media"></a>
-<a href="http://torokoid.github.io/20261024_nasu_nikko/20261024_00053.jpeg" target="_blank"><img src="http://torokoid.github.io/20261024_nasu_nikko/20261024_00053.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 
 
